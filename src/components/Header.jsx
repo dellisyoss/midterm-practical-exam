@@ -1,4 +1,4 @@
-function Header({ title }) {
+function Header() {
   return (
     <header className="header">
       <h1>Midterm Practical Exam | CSIT340-G1</h1>
