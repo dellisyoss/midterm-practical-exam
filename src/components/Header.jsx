@@ -1,8 +1,8 @@
 function Header({ title }) {
   return (
     <header className="header">
-      <h1>{title}</h1>
-      <p>Precious Ann Tolentino | BSIT-3</p>
+      <h1>Midterm Practical Exam | CSIT340-G1</h1>
+      <p>Precious Ann Tolentino | BSIT - 3</p>
     </header>
   );
 }

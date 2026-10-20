@@ -326,6 +326,15 @@ ul.list li:last-child {
   border: 1px solid #e1e7eb;
 }
 
+.theme-light h3,
+.theme-dark h3 {
+  color: #e1e7eb;
+}
+
+.theme-dark h2 {
+  color: #e1e7eb;
+}
+
 .theme-dark {
   color: #edf2f1;
   background: #263431;
